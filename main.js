@@ -19,10 +19,10 @@ search.addEventListener('input', (e) => {
     for (let i = 0; i < list.children.length; i++) {
         const itemText = list.children[i].children[0].children[1].innerText.toLowerCase(); // Get the text of the item in the list and set to lowercase by calling children
         if (itemText.indexOf(searchTerm) > -1) {
-            list.children[i].style.display = ''; // If the item text contains the search term, display it by setting display to empty string
+            list.children[i].style.display = ''; // If the item text [i] contains the search term, display it by setting display to empty string
         }
         else{
-            list.children[i].style.display = 'none'; // If the item text does not contain the search term, hide it by setting display to none
+            list.children[i].style.display = 'none'; // If the item text [i] does not contain the search term, hide it by setting display to none
         }
     }
 });
