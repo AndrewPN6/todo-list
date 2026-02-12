@@ -4,12 +4,12 @@ A clean and intuitive to-do list application built with vanilla JavaScript, HTML
 
 ## Features
 
-✅ Add Tasks - Quickly add new tasks to your list
-✏️ Edit Tasks - Modify existing tasks inline
-🗑️ Delete Tasks - Remove completed or unnecessary tasks
-🔍 Search Tasks - Filter tasks in real-time as you type
-☑️ Check Off Tasks - Mark tasks as complete with a custom checkbox
-💾 Persistent Storage - Your tasks are automatically saved to local storage
+ -  Add Tasks - Quickly add new tasks to your list
+ -  Edit Tasks - Modify existing tasks inline
+ - Delete Tasks - Remove completed or unnecessary tasks
+ -  Search Tasks - Filter tasks in real-time as you type
+ -  Check Off Tasks - Mark tasks as complete with a custom checkbox
+ -  Persistent Storage - Your tasks are automatically saved to local storage
 
 ## Demo
 Try out the application by opening index.html in your browser!
